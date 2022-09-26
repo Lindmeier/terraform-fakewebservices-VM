@@ -1,0 +1,9 @@
+kind: Baustein
+id: f78e8f5d-6998-47dd-9962-8acc1ecda118
+name: terraform-fakewebservices-vm
+category: tbd
+description: Baustein 2 : VM: creates a VM
+owner: xgadlnd
+capability: tbd
+state: planned
+type: Terraform
